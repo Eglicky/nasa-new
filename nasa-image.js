@@ -24,15 +24,15 @@ export class NasaImage extends LitElement {
     }
 
     .image div {
-    max-width: 200px;
-    font-size: 16px;
+    max-width: 100px;
+    font-size: 12px;
     font-weight: bold;
     }
 
     .image img {
     display: block;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     }
 
     `];

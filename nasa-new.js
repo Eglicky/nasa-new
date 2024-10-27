@@ -23,15 +23,15 @@ export class NasaSearch extends LitElement {
       .results {
         visibility: visible;
         height: 100%;
-        opacity: 1;
+        opacity: 2;
         transition-delay: .5s;
         transition: .5s all ease-in-out;
       }
 
       details {
-        margin: 16px;
-        padding: 16px;
-        background-color: blue;
+        margin: 24px;
+        padding: 8px;
+        background-color: pink;
       }
       summary {
         font-size: 24px;
